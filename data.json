@@ -1,0 +1,71 @@
+{
+    "items" : [
+                {
+                    "title" : "70mm dosa",
+                    "img" : "img/70mmdosa.jpg",
+                    "price" : 128,
+                    "restaurant" : "Nrs Nandini",
+                    "description" : "Serve with chutney Sambar"
+                },
+                {
+                    "title" : "idly",
+                    "img" : "img/idly.jpg",
+                    "price" : 49,
+                    "restaurant" : "Sravani Restaurant",
+                    "description" : "Serve with chutney Sambar"
+                },
+                {
+                    "title" : "idly and Vada",
+                    "img" : "img/idly&vada.jpg",
+                    "price" : 78,
+                    "restaurant" : "Nrs Nandini",
+                    "description" : "Idli(2 pcs) & vada(1 pc) Serve with chutney Sambar"
+                },
+                {
+                    "title" : "Masala Dosa",
+                    "img" : "img/masaladosa.jpg",
+                    "price" : 71,
+                    "restaurant" : "AMB kitchen",
+                    "description" : "Serve with chutney Sambar"
+                },
+                {
+                    "title" : "onionDosa",
+                    "img" : "img/onionDosa.jpg",
+                    "price" : 86,
+                    "restaurant" : "Naveen's Kitchen",
+                    "description" : "Serve with chutney Sambar"
+                    
+                },
+                {
+                    "title" : "palakPaneer Dosa",
+                    "img" : "img/palakPaneerDosa.jpg",
+                    "price" : 100,
+                    "restaurant" : "AMB kitchen",
+                    "description" : "Serve with chutney Sambar"
+                },
+                {
+                    "title" : "pesarattu",
+                    "img" : "img/pesarattu.jpg",
+                    "price" : 78,
+                    "restaurant" : "Naveen's Kithchen",
+                    "description" : "Serve with chutney Sambar"
+                },
+                {
+                    "title" : "RasamIdly",
+                    "img" : "img/RasamIdly.jpg",
+                    "price" : 58,
+                    "restaurant" : "Nrs Nandini",
+                    "description" : "Serve with chutney Sambar"
+                    
+                },
+                {
+                    "title" : "uthappam",
+                    "img" : "img/uthappam.jpg",
+                    "price" : 74,
+                    "restaurant" : "AMB kitchen",
+                    "description" : "Serve with chutney Sambar"
+                }
+    ]
+}
+
+
