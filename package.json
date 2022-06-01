@@ -1,5 +1,5 @@
 {
-  "name": "react_restaurant_app",
+  "name": "food_app",
   "proxy": "http://localhost:5000",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +16,7 @@
     "react-modal": "^3.15.1",
     "react-redux": "^8.0.2",
     "react-reveal": "^1.2.2",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "redux": "^4.2.0",
     "redux-thunk": "^2.4.1",
@@ -23,8 +24,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "server": "nodemon server.js",
     "start": "react-scripts start",
+    "server": "nodemon server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
